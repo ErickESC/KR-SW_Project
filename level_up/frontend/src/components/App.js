@@ -8,11 +8,12 @@ export default class App extends Component {
   }
 
   render() {
-    return (
-      <div>
-        <HomePage />
-      </div>
-    );
+    return <h1>Testing React Code</h1>
+    // return (
+    //   <div>
+    //     <HomePage />
+    //   </div>
+    // );
   }
 }
 
